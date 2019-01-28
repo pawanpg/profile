@@ -28,7 +28,7 @@
 
    <!-- Favicons
    ================================================== -->
-    <link rel="shortcut icon" href="<?php echo UURL;?>favicon.png" >
+    <link rel="shortcut icon" href="<?php echo UURL;?>favicon.jpeg" >
 
 </head>
 
